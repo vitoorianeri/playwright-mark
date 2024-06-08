@@ -1,0 +1,22 @@
+{
+    "success": {
+        "name": "Read a TypeScript book",
+        "is_done": false
+    },
+    "duplicate": {
+        "name": "Learn about locator",
+        "is_done": false
+    },
+    "required": {
+        "name": "",
+        "is_done": false
+    },
+    "update":{
+        "name": "Run the automation",
+        "is_done": false
+    },
+    "delete":{
+        "name": "Read the article",
+        "is_done": false
+    }
+}
