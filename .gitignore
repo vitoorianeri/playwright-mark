@@ -3,6 +3,5 @@ node_modules/
 /playwright-report/
 /blob-report/
 /playwright/.cache/
-/tests/soap*
-/tests/**/soap/
+/tests/**/soap/users.json
 .env
